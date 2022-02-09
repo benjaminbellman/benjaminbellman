@@ -14,17 +14,17 @@
 -->
 
 ### About Me 
-I'm an avid learner. Currently a part-time data consultant at 2.0 Group with 5+ clients ranging from fitness-apparel to cellular agriculture and pursuing Springboard's 6 month Data Science Program. 
-- 4 years professional experience in the non-profit, solar, fin-tech startup, and computer software industries.  
-- 🔭 Currently working on projects which bridge the gaps between Business Analytics and Data Science. 
-- 👨‍ Looking to join a growth product / marketing team as a Data Analyst / Data Scientist.
+I'm an avid learner abd data enthusiast. Currently a part-time data consultant at 2.0 Group and student in Springboard's 6 month Data Science program. 
+- 4 years professional experience in the non-profit, solar, fin-tech startup, and computer software industries in cross-hybrid roles.  
+- 🔭 Currently working on projects which bridge gaps between Business Analytics and Data Science. 
+- 👨‍ Looking to join a growth product / marketing team as a full time Data Analyst / Scientist.
 - 📫 How to reach me: bbellman95@gmail.com ; [Linkedin](https://www.linkedin.com/in/ben95/)
 
 ### Data Science Projects 
-- 📦 Created thatApplied Machine Learning techniques on Shopify order exports to predict Customer Repeats and LTV. Code can be used by any Shopify store-owner!    
-- 🎵 Used Supervised ML to predict song plays from my personal Itunes library and how my taste changed over time. 
-- 📊 Determined Optimal Ticket Pricing Strategy for ski resort using both unsupervised and supervised learning techniques. 
--  Over 15+ different Data Science Case Studies as part of Springboard's 550+ hours Curriculum.  
+- 📦 Applied machine learning techniques on Shopify platform data that any store-owner can use to predict customer repeats and LTV.   
+- 🎵 Used supervised ML to predict song plays from my personal Itunes library and how my taste changed over time. 
+- 📊 Determined optimal ticket Pricing Strategy for ski resort using both unsupervised and supervised learning techniques. 
+-  Over 15+ different DS and ML case studies as part of Springboard's 550+ hours curriculum.  
 
 ### Fun Facts: 
 - 💪 I love the gym and outdoor hiking. 
