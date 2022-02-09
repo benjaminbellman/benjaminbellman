@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ben Bellman!
+### Hi there 👋 I am Ben Bellman! 
 
 <!--
 **benjaminbellman/benjaminbellman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +23,7 @@ I'm a data enthusiast. Currently a part-time consultant at 2.0 Group and Data Sc
 ### Data Science Projects 
 - 📦 Applied machine learning techniques on Shopify data that any store-owner can use to predict customer repeats and LTV.   
 - 🎵 Used supervised ML to predict song plays from my personal Itunes library and how my taste changed over time. 
-- 📊 Determined optimal ticket Pricing Strategy for ski resort using both unsupervised and supervised learning techniques. 
--  Over 15+ different DS and ML case studies as part of Springboard's 550+ hours curriculum.  
+- 📊 Determined optimal ticket pricing strategy for ski resort using both unsupervised and supervised learning techniques. 
 
 ### Fun Facts: 
 - 💪 I love the gym and outdoor hiking. 
