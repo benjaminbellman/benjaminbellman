@@ -24,7 +24,6 @@ I'm an avid learner whose passionate about applying Data Science techniques to h
 - 📦 Applied Machine Learning techniques on Shopify Orders Exports to predict Customer Repeats and LTV. Code can be used by any Shopify store-owner!    
 - 🎵 Used Supervised ML to predict song plays from my personal Itunes Library and how my taste changed over time. 
 - 📊 Determined Optimal Ticket Pricing Strategy for ski resort using both unsupervised and supervised learning techniques. 
-- 📈 Use of ARIMA models to forecast sales of Cigarette manufacturer. 
 -  Over 15+ different Data Science Case Studies as part of Springboard's 550+ hours Curriculum.  
 
 ### Fun Facts: 
