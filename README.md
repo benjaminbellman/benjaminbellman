@@ -20,7 +20,7 @@ I'm a data enthusiast. Currently a part-time consultant at 2.0 Group and Data Sc
 - 👨‍ Looking to join a growth product / marketing team as a full time Data Analyst / Scientist.
 - 📫 How to reach me: bbellman95@gmail.com [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ben95/)   
 
-[!(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) Instagram](https://www.instagram.com/benjaminbellman/)   
+![image]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})   
 
 ### Data Science Projects 
 - 📦 Applied machine learning techniques on Shopify data that any store-owner can use to predict customer repeats and LTV.   
