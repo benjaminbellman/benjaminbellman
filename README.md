@@ -29,3 +29,6 @@ I'm a data enthusiast. Currently a part-time consultant at 2.0 Group and Data Sc
 - 💪 I love the gym and outdoor hiking. 
 - 🌴 Love travelling (20+ countries so far!) 
 - 🐱 My cat's name is Neighbor.
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ben95/)
+&nbsp;
