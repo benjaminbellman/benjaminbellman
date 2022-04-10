@@ -18,7 +18,9 @@ I'm a data enthusiast. Currently a part-time consultant at 2.0 Group and Data Sc
 - 4 years professional experience in the non-profit, solar, fin-tech startup, and computer software industries in varying roles.  
 - 🔭 Currently working on projects which bridge gaps between Business Analytics and Data Science. 
 - 👨‍ Looking to join a growth product / marketing team as a full time Data Analyst / Scientist.
-- 📫 How to reach me: bbellman95@gmail.com [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ben95/)
+- 📫 How to reach me: bbellman95@gmail.com [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ben95/)   
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) Instagram](https://www.instagram.com/benjaminbellman/)   
 
 ### Data Science Projects 
 - 📦 Applied machine learning techniques on Shopify data that any store-owner can use to predict customer repeats and LTV.   
