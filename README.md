@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ben Ben!
+### Hi there 👋 I'm Ben!
 
 <!--
 **benjaminbellman/benjaminbellman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
