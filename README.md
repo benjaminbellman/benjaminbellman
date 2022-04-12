@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ben Bellman! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${benjaminbellman}.${README.md})
+### Hi there 👋 I'm Ben Ben!
 
 <!--
 **benjaminbellman/benjaminbellman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
