@@ -14,7 +14,7 @@
 -->
 
 ### About Me 
-I'm a data enthusiast. Currently a part-time consultant at 2.0 Group and Data Science student in Springboard's 6-month program. 
+Data enthusiast. Currently a part-time consultant at 2.0 Group and Data Science student in Springboard's 6-month program. 
 - 4 years professional experience in the non-profit, solar, fin-tech startup, and computer software industries in varying roles.  
 - 🔭 Currently working on projects which bridge gaps between Business Analytics and Data Science. 
 - 👨‍ Looking to join a growth product / marketing team as a full time Data Analyst / Scientist.
