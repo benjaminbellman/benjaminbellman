@@ -10,7 +10,6 @@
 - 🤔 I’m looking for help with ...
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My cat's name is Neighbor and my car's License plate is "Neighbor". 
 -->
 
 ### About Me 
