@@ -16,7 +16,6 @@
 Data enthusiast. Current Solutions Engineer at CityInnovate and part-time consultant at 2.0 Group. 
 - 4 years professional experience in the non-profit, solar, fin-tech startup, and computer software industries in varying roles.  
 - 🔭 Currently working on projects which bridge gaps between Business Analytics and Data Science. 
-- 👨‍ Looking to join a growth product / marketing team as a full time Data Analyst / Scientist.
 - 📫 How to reach me: bbellman95@gmail.com [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ben95/)   
 
 ### Data Science Projects 
@@ -28,6 +27,5 @@ Data enthusiast. Current Solutions Engineer at CityInnovate and part-time consul
 - 💪 I love the gym and outdoor hiking. 
 - 🌴 Love travelling (20+ countries so far!) 
 - 🐱 My cat's name is Neighbor.
-
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benjaminbellman&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
