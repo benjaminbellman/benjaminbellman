@@ -1,20 +1,6 @@
-### Hi there 👋 I'm Ben!
-
-<!--
-**benjaminbellman/benjaminbellman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on bridging the gap between Business Analytics and Data Science
-- 🌱 I’m currently pursuing Springboard's 6 month Data Science Program. 
-- 👯 I’m looking to collaborate on projects which bridge the gap between Business Analytics and Data Science. 
-- 🤔 I’m looking for help with ...
-
-- 😄 Pronouns: He/Him
--->
-
 ### About Me 
-Data enthusiast. Current Solutions Engineer at CityInnovate and part-time consultant at 2.0 Group. 
-- 4 years professional experience in the non-profit, solar, fin-tech startup, and computer software industries in varying roles.  
+Data enthusiast.Product Solutions Engineer at CityInnovate and part-time consultant at 2.0 Group. 
+- 4 years experience in analytics,operations and product-oriented roles.   
 - 🔭 Currently working on projects which bridge gaps between Business Analytics and Data Science. 
 - 📫 How to reach me: bbellman95@gmail.com [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ben95/)   
 
