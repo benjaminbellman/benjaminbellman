@@ -1,5 +1,5 @@
 ### About Me 
-Data enthusiast. Current Product Solutions Engineer at CityInnovate and part-time consultant at 2.0 Group. 
+Data enthusiast working at CityInnovate to revolutionalize government procurement. 
 - 4 years experience in analytics,operations and product-oriented roles.   
 - 🔭 Working on projects which bridge gaps between Business Analytics and Data Science. 
 - 📫 How to reach me: bbellman95@gmail.com [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ben95/)   
