@@ -1,7 +1,6 @@
 ### About Me 
-Data enthusiast working at City Innovate to revolutionalize government procurement. 
+Data enthusiast building products at City Innovate to revolutionalize government procurement. 
 - 5 years experience in analytics, product and operations roles.   
-- 🔭 Working on projects which bridge gaps between Business Analytics and Data Science. 
 - 📫 How to reach me: bbellman95@gmail.com [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ben95/)   
 
 ### Data Science Projects 
