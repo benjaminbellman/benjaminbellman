@@ -53,10 +53,9 @@ Previously: data science consulting, product management, business ops at an AI R
 - 💍 Engaged to my amazing fiancée **Lou** — we even built a wedding game together!
 - 🇫🇷🇺🇸 French-American, native in both English & French, proficient in Spanish
 - 🌍 Traveled to **20+ countries** and counting
-- ⚽ Die-hard **Arsenal** supporter — through the highs and the pain
+- ⚽ Die-hard **Arsenal** supporter — mostly lows, but we don't talk about that
 - 🎮 Avid **Pokémon GO** player
 - 🎶 Eclectic music taste — everything from 60s classics to EDM to variété française
-- 🐱 In loving memory of **Golfie**, the best cat there ever was
 - 🏋️ Gym & outdoor hiking when I'm not at a screen
 
 ---
