@@ -67,7 +67,7 @@ Previously: **Director of Revenue Operations at [Authorium](https://www.authoriu
 
 ### 🔥 What Drives Me
 
-I'm passionate about using **AI and automation** to make teams more efficient and help businesses scale intelligently. Whether it's building a financial model, optimizing a GTM pipeline, or automating a painful manual workflow — I love turning complexity into clarity. Bonus points when the mission also makes the world a little less wasteful. 🌍
+I'm passionate about **embedding AI and automation into GTM motions** — Sales, Marketing, CS, RevOps — to help go-to-market teams punch above their weight and scale without adding headcount for every new problem. Whether it's building a financial model, optimizing a GTM pipeline, or automating a painful manual workflow, I love turning complexity into clarity. Bonus points when the mission also makes the world a little less wasteful. 🌍
 
 ---
 
