@@ -1,16 +1,20 @@
 👋••🧑‍#💻🇫🇷🇺🇸—🎓—🔧📊—🤖—💰—📈—⚙️—🛠️🚀⚽—💍—📦—🎵—🎉💒—🇫🇷🇺🇸🌍⚽—🎮é🎶—ééç🏋️🔥—📬 Hey there, I'm Ben! 👋
 
-**Director of Revenue Operations** @ [Authorium](https://www.authorium.com) | Scaling Gov-Tech SaaS | AI Workflow Enthusiast
+**Sr. RevOps Analyst** @ [Afresh](https://www.afresh.com) 🥦 | AI for Fresh Food Supply Chains | Fighting Food Waste with Data
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a French-American 🇫🇷🇺🇸 operations leader based in **San Francisco** with 8+ years of experience scaling startups across data, product, and revenue operations. Currently at **Authorium**, a gov-tech SaaS startup where I lead RevOps and helped drive **482% growth** over three years — earning a spot on the **2025 Inc. 5000** (#882 nationally).
+I'm a French-American 🇫🇷🇺🇸 operations leader based in **San Francisco** with 8+ years of experience scaling startups across data, product, and revenue operations.
+
+Currently at **Afresh**, an AI platform that helps grocers run smarter fresh departments — cutting shrink, eliminating stockouts, and reducing food waste at scale. The platform already powers **12,500+ departments** across Albertsons, WinCo, Fresh Thyme, Stater Bros., Cub Foods, and more — driving **~25% shrink reduction** and **80% fewer stockouts** while helping retailers move toward a more sustainable food system. 🌱
+
+I'm on the RevOps team, focused on GTM analytics, pipeline infrastructure, and turning messy data into decisions that help the business scale.
 
 🎓 McGill University — B.Sc. in Environmental Science & Economics
 
-Previously: data science consulting, product management, business ops at an AI R&D lab, and early-stage fintech.
+Previously: **Director of Revenue Operations at Authorium**, where I helped drive **482% growth** over three years — earning a spot on the **2025 Inc. 5000** (#882 nationally). Before that: data science consulting, product management, business ops at an AI R&D lab, and early-stage fintech.
 
 ---
 
@@ -21,6 +25,7 @@ Previously: data science consulting, product management, business ops at an AI R
 - 💰 **Financial Modeling** — ARR forecasting, LTV/CAC, retention modeling for investor comms
 - 📈 **Product Analytics** — SQL-based utilization tracking (DAUs/MAUs) to drive CS outcomes
 - ⚙️ **Process Optimization** — Cross-functional GTM alignment across Sales, Marketing & CS
+- 🥦 **Fresh Food x AI** — Helping scale a platform that makes grocery supply chains less wasteful
 
 ---
 
@@ -62,7 +67,7 @@ Previously: data science consulting, product management, business ops at an AI R
 
 ### 🔥 What Drives Me
 
-I'm passionate about using **AI and automation** to make teams more efficient and help businesses scale intelligently. Whether it's building a financial model, optimizing a GTM pipeline, or automating a painful manual workflow — I love turning complexity into clarity.
+I'm passionate about using **AI and automation** to make teams more efficient and help businesses scale intelligently. Whether it's building a financial model, optimizing a GTM pipeline, or automating a painful manual workflow — I love turning complexity into clarity. Bonus points when the mission also makes the world a little less wasteful. 🌍
 
 ---
 
