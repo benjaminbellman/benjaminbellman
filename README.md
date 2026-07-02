@@ -14,7 +14,7 @@ I'm on the RevOps team, focused on GTM analytics, pipeline infrastructure, and t
 
 🎓 McGill University — B.Sc. in Environmental Science & Economics
 
-Previously: **Director of Revenue Operations at Authorium**, where I helped drive **482% growth** over three years — earning a spot on the **2025 Inc. 5000** (#882 nationally). Before that: data science consulting, product management, business ops at an AI R&D lab, and early-stage fintech.
+Previously: **Director of Revenue Operations at [Authorium](https://www.authorium.com)**, where I helped drive **482% growth** over three years — earning a spot on the **2025 Inc. 5000** (#882 nationally). I also contributed to building out **supplier lifecycle management** on the platform, helping public-sector agencies modernize how they onboard, evaluate, and manage suppliers end-to-end. Before that: data science consulting, product management, business ops at an AI R&D lab, and early-stage fintech.
 
 ---
 
