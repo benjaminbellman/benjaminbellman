@@ -1,4 +1,4 @@
-# Hey there, I'm Ben! 👋
+👋••🧑‍#💻🇫🇷🇺🇸—🎓—🔧📊—🤖—💰—📈—⚙️—🛠️🚀⚽—💍—📦—🎵—🎉💒—🇫🇷🇺🇸🌍⚽—🎮é🎶—ééç🏋️🔥—📬 Hey there, I'm Ben! 👋
 
 **Director of Revenue Operations** @ [Authorium](https://www.authorium.com) | Scaling Gov-Tech SaaS | AI Workflow Enthusiast
 
