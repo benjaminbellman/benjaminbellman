@@ -1,4 +1,4 @@
-👋••🧑‍#💻🇫🇷🇺🇸—🎓—🔧📊—🤖—💰—📈—⚙️—🛠️🚀⚽—💍—📦—🎵—🎉💒—🇫🇷🇺🇸🌍⚽—🎮é🎶—ééç🏋️🔥—📬 Hey there, I'm Ben! 👋
+# Hey there, I'm Ben! 👋
 
 **Sr. RevOps Analyst** @ [Afresh](https://www.afresh.com) 🥦 | AI for Fresh Food Supply Chains | Fighting Food Waste with Data
 
